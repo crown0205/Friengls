@@ -8,8 +8,6 @@
 - <a href="https://youtu.be/u_SaGn2HHXw"> 🎬 프로젝트 발표영상 </a></br>
   </br>
 
----
-
 ## ⏰ Project Timeline
 
 |             |                          |
@@ -19,8 +17,6 @@
 | 서비스 개선 | 5월 29일 ~ 6월 3일       |
 
 <br/>
-
----
 
 ## 👨‍💻👩‍💻 FE Team
 
@@ -90,8 +86,6 @@
 
 </br>
 
----
-
 ## 📚 Library
 
 |           Name            |         Appliance          | Version |
@@ -117,8 +111,6 @@
 |        React-icons        |           아이콘           |  5.3.3  |
 |     Socket.io-client      |          화상채팅          |  4.5.0  |
 |   React-copy-clipboard    |        보드 글 복사        |  5.1.0  |
-
----
 
 ## 💣 기술적 도전
 
