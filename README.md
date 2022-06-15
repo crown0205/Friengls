@@ -1,29 +1,86 @@
-# Friengls
+![readme](https://friengles.s3.ap-northeast-2.amazonaws.com/1654227512001)
 
-</br>
+## Friengls (프랭글스)
 
-<img width="100%" src="https://friengles.s3.ap-northeast-2.amazonaws.com/1654227512001">
-
-<h3 align='center'> 👩‍🏫 1 : 1 화상 한국어 교육 플랫폼, Friengls 🙋‍♂️ </h3>
-  
-</br>
-
-## 🛠 기술스택
-
-<p align='center'>
-   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-   <img src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"> 
-   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"> 
-   
-</p>
-
-</br>
-
-## 📌 바로가기
+👩‍🏫 1 : 1 화상 한국어 교육 플랫폼, Friengls 🙋‍♂️
 
 - <a href="https://friengls.com/"> 👉 Friengls </a></br>
 - <a href="https://youtu.be/u_SaGn2HHXw"> 🎬 프로젝트 발표영상 </a></br>
+  </br>
+
+---
+
+## ⏰ Project Timeline
+
+|             |                          |
+| :---------: | ------------------------ |
+|   총 기간   | 4월 22일 ~ 6월 3일 (6주) |
+|   배포일    | 5월 29일                 |
+| 서비스 개선 | 5월 29일 ~ 6월 3일       |
+
+<br/>
+
+---
+
+## 👨‍💻👩‍💻 FE Team
+
+|                                        [공지애🔰](https://github.com/jiaegong)                                         |                                                     [강성지](https://github.com/Co-Ji)                                                      |                                         [정현수](https://github.com/crown0205)                                          |
+| :--------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://i.pinimg.com/564x/68/b2/dc/68b2dc8dc37e02aad6a03b550347f2c0.jpg" alt="프로필 이미지" width="200px"/> | <img src="https://imagedelivery.net/v7-TZByhOiJbNM9RaUdzSA/df1fa9e2-6f31-47da-9924-02e02a9b4000/public" alt="프로필 이미지" width="200px"/> | <img src="https://i.pinimg.com/564x/5f/7e/79/5f7e795f36cfa2f66322018c46eebfb8.jpg" alt="프로필 이미지" width="200px" /> |
+|                                                      `Front-End`                                                       |                                                                 `Front-End`                                                                 |                                                       `Front-End`                                                       |
+
+#### 공지애
+
+`화상채팅` `CI/CD셋팅(w/ Github Actions)` `리뷰기능`
+
+#### 강성지
+
+`로그인` `회원가입` `UI` `상세페이지`
+
+#### 정현수
+
+`마이페이지` `UI` `메인페이지` `검색페이지` `예약기능` `리뷰기능`
+
+<br/>
+<br/>
+
+## 🛠 Tech Stack & Platform
+
+### **Tech**
+
+<p>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/axios-007CE2?style=for-the-badge&logo=axios&logoColor=white">
+<img src="https://img.shields.io/badge/reactrouterdom-CA4245?style=for-the-badge&logo=reactrouterdom&logoColor=white">
+</br>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white">
+<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=WebRTC&logoColor=white">
+<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
+<img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> 
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
+<br>
+</p>
+
+### **Design**
+
+<p>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
+</p>
+
+### **Tools**
+
+<p>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
+
+<br>
+</p>
 
 </br>
 
@@ -33,15 +90,35 @@
 
 </br>
 
-## 🤼‍♂️ Contributors
+---
 
-| name     | position | github                       |
-| -------- | -------- | ---------------------------- |
-| 공지애🔰 | React    | https://github.com/jiaegong  |
-| 강성지   | React    | https://github.com/Co-Ji     |
-| 정현수   | React    | https://github.com/crown0205 |
+## 📚 Library
 
-</br>
+|           Name            |         Appliance          | Version |
+| :-----------------------: | :------------------------: | :-----: |
+|           Axios           | HTTP 클라이언트 라이브러리 | 0.26.1  |
+|        React-redux        |          상태관리          |  7.2.6  |
+|     React-router-dom      |           라우터           |  5.2.1  |
+|         React-dom         |      브라우저 렌더링       | 17.0.2  |
+|           Redux           |         상태 관리          |  4.2.0  |
+|       Redux-actions       |         액션 관리          |  2.6.5  |
+|       Redux-logger        | 리덕스 미들웨어 & devTools |  3.0.6  |
+|        Redux-thunk        |      리덕스 미들웨어       |  2.4.1  |
+|  Connected-react-router   |           라우터           |  6.9.2  |
+|           Immer           |        불변성 유지         | 9.0.12  |
+|          History          |        페이지 이동         | 4.10.1  |
+|          Lodash           |       Throttle 사용        | 4.17.21 |
+| Browser-image-compression | 이미지 업로드시 용량 압축  |  2.0.0  |
+|       React-i18next       |         번역 기능          | 11.16.7 |
+|          Moment           |      날짜, 시간 출력       | 1.11.0  |
+|        Sweetalert2        |          Alert창           | 11.4.8  |
+|     Styled-components     |         CSS in JS          |  5.3.3  |
+|          Peerjs           |          화상채팅          |  1.4.4  |
+|        React-icons        |           아이콘           |  5.3.3  |
+|     Socket.io-client      |          화상채팅          |  4.5.0  |
+|   React-copy-clipboard    |        보드 글 복사        |  5.1.0  |
+
+---
 
 ## 💣 기술적 도전
 
@@ -87,11 +164,3 @@
 1. 문제상황: 유저가 특정 언어를 선택하고 새로고침 시 다시 기본 설정 언어로 변경
 2. 해결방안: 선택한 언어를 로컬 스토리지에 저장 후 헤더에서 useEffect 훅을 사용해 새로고침 시 로컬 스토리지에 저장된 언어가 있을 때 불러올 수 있도록 개선함
    기본 선택 언어는 로컬 스토리지에 데이터가 있을 경우와 없을 경우를 구분해 선택되도록 개선함
-
-## ⏰ 프로젝트 기간
-
-|             |                          |
-| :---------: | ------------------------ |
-|   총 기간   | 4월 22일 ~ 6월 3일 (6주) |
-|   배포일    | 5월 29일                 |
-| 서비스 개선 | 5월 29일 ~ 6월 3일       |
